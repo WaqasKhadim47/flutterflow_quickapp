@@ -13,7 +13,7 @@
 ## How to run the app
 - **Clone the project.**
 ```shell
-[git clone https://github.com/ruslan-volkhov-ew/quizApp-FlutterFlow.git](https://github.com/WaqasKhadim47/flutterflow_quickapp.git)
+https://github.com/WaqasKhadim47/flutterflow_quickapp.git
 ```
 - **Open the project.**
 ```shell
